@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es>
+        
+                <head>
+                <meta charset="utf"-8>
+                <title>MORT´S</title>
+                
+
+                </head>
+ 
+                <body bgcolor="#E5BDE2">
+                <p><h1><center><font color="white" face="Bowlby One SC">MORT IN THE KITCHEN  </p></h1></center></font>
+                <hr align="center" size="20" width="100%" color="#FFF81F" noshade>
+                <center><table border ="1" width="50%"></center>
+                <tr bgcolor="#8FE3FF">
+               <td colspan="3"><center><h1><font color="white"><tt>RECETAS</font></tt></h1></center></td>
+                </tr>
+                
+                
+                 <tr bgcolor="#8293FA">
+                 <td><h3><font color="white" face="Comic Sans MS">Hamburguesa <br><a href="hamort.html">Click</a></br></h3></font></td>
+                <td><h3><font color="white" face="Comic Sans MS">Pay de limon<br><a href="paymort.html">Click</a></br></h3></font></td>
+   
+                <td><h3><font color="white" face="Comic Sans MS">Tiramisu<br><a href="tiramisum.html">Click</br></a></h3></font></td>
+                </font>
+                 </tr>
+
+                <tr bgcolor="#8293FA">
+                <td><h3><font color="white" face="Comic Sans MS">Nachos<br><a href="nachosm.html">Click</br></a></h3></font></td>
+                <td><h3><font color="white" face="Comic Sans MS">Sundae de chocolate y fresas<br><a href="smort.html">Click</a></br></h3></font></td>
+                 <td><h3><font color="white" face="Comic Sans MS">Pastel frio de cafe<br><a href="cafemort.html">Click</a></br></h3></font></td>
+                </font>
+                
+                </tr>
+  <tr bgcolor="#8293FA">
+                 <td><h3><font color="white" face="Comic Sans MS">Pizza<br><a href="PIZZAM.html">Click</a></br></h3></font></td>
+ <td><h3><font color="white" face="Comic Sans MS">Nuggets<br><a href="NUGGETSM.html">Click</a></br></h3></font></td>
+ <td><h3><font color="white" face="Comic Sans MS">Churros de azucar<br><a href="CHURROSM.html">Click</a></br></h3></font></td>
+                </font>
+                
+                </tr>
+              
+               
+                 
+                 
+               
+
+              
+
+ 
+                
+ 
+
+                </body>
+                </html>

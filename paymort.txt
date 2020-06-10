@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es>
+        
+                <head>
+                <meta charset="utf"-8>
+                <title>Paymort</title>
+                </head>
+                 <body bgcolor="#EBCD33">
+                <p><h1><center><font color="white" face="Lemon">PAY DE MORT</p></h1></center></font>
+               
+                <center><br><table border ="5" width="50%" bordercolor="#8DFA28"></br>
+                <tr bgcolor="#CDA0FC">
+               <td><center><h2><font color="white"><tt>INGREDIENTES</font></tt></h2></center></td>
+               <td><center><h2><font color="white"><tt>PREPARACION</font></tt></h2></center></td>
+                </tr>
+                
+                <tr bgcolor="#6BD1D0">
+                <td><h3><font color="white" face="Comic Sans MS">Galletas Maria<br>300 gramos de queso crema<br>1 lata de leche condensada<br>1 Lata de leche evaporada<br>Jugo de 5 limones</br></h3></font></td>          
+                <td><h3><font color="white" face="Comic Sans MS">1.En una licuadora mezclar los 300 gramos de queso crema la lata de leche condensada y la lata de leche evaporada<br>2.Cuando este todo mezclado añadir el judo de limon<br>3.En un molde poner una capa de galletas y cubrir con algo de mezcla<br>4.Repetir el paso anterior hasta que la mezcla se termine,asegurarse que en la ultima capa quede cubierta por la mezcla y no por galletas<br>5.Meter al refrigerador por una noche</br></td></h3></font> 
+                </tr>
+  <img src="bmort.png">
+    
+
+    
+         
+                
+                </body>
+                </html>

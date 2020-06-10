@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es>
+        
+                <head>
+                <meta charset="utf"-8>
+                <title>mortsnachos</title>
+                </head>
+                 <body bgcolor="#E82082">
+                <p><h1><center><font color="white" face="Lemon">NACHOS DE MORT</p></h1></center></font>
+               
+                <center><br><table border ="5" width="50%" bordercolor="#12FFE4"></br>
+                <tr bgcolor="#9233C4">
+               <td><center><h2><font color="white"><tt>INGREDIENTES</font></tt></h2></center></td>
+               <td><center><h2><font color="white"><tt>PREPARACION</font></tt></h2></center></td>
+                </tr>
+                
+                <tr bgcolor="#82E64F">
+                <td><h3><font color="white" face="Comic Sans MS">1. 12 Tortillas de maíz cortadas en triángulos doradas en aceite<br>2. 1 taza de queso amarillo tipo americano<br>3. 1 tazza de queso Oaxaca rallado<br>4. 1 Chile ancho asado, limpio,remojado en agua caliente<br>5. 1/2 Taza de leche caliente<br>6. 1 taza de jalapeños cortados en rodajas y chile piquin molido al gusto</br></h3></font></td>          
+                <td><h3><font color="white" face="Comic Sans MS">1.Muele  el chile remojado en 4 cucharadas de leche y cuela<br>2.Mezcla los quesos con elchile molido y el resto de la leche, ponlos al fuego revolviendo constantemente hasta que se derriten<br>3.Vierte el queso sobre los totopos y adorna con las rodajas de jalapeño. Rocia con el chile molido</br></td></h3></font> 
+                </tr>
+                <img src="bmort.png">
+    
+         
+                
+                </body>
+                </html>

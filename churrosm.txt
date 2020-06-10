@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es>
+        
+                <head>
+                <meta charset="utf"-8>
+                <title>churrosmort</title>
+                </head>
+                 <body bgcolor="#5ABCFF">
+                <p><h1><center><font color="white" face="Lemon">CHURROS DE AZUCAR DE MORT</p></h1></center></font>
+               
+                <center><br><table border ="5" width="50%" bordercolor="#FF0F8A"></br>
+                <tr bgcolor="#5A46FF">
+               <td><center><h2><font color="white"><tt>INGREDIENTES</font></tt></h2></center></td>
+               <td><center><h2><font color="white"><tt>PREPARACION</font></tt></h2></center></td>
+                </tr>
+                
+                <tr bgcolor="#F39EFF">
+                <td><h3><font color="white" face="Comic Sans MS"><br>1 taza de agua<br>2 1/2 cucharaditas de azúcar refinada<br> 1/2 cucharaditas de sal<br>2 cucharadas de aceite vegetal<br>1 taza de harina<br>2 litros de aceite, para freír<br>1/2 tazas de azúcar refinada<br>1 cucharadita de canela en polvo</br></h3></font></td>          
+                <td><h3><font color="white" face="Comic Sans MS">1. 1 cucharadita de canela en polvo<br>2.Deja que hiervan y retira del fuego. Incorpora el harina hasta que se forme una masa.
+<br>3.Calienta el aceite para freír en un sarten hondo o cazo conico a 190 C.
+<br>4.Coloca la masa en una manga pastelera con una duya o punta de estrella.<br>5.Forma los churros y frie en el aceite caliente hasta que esten dorados.<br>6.Retira del aceite y escurre en toallas de papel.<br>Mezcla 1/2 taza de azucar de canela. Revuelve los churros en esta mezcla.
+</br></td></h3></font> 
+                </tr>
+                <img src="bmort.png">
+    
+         
+                
+                </body>
+                </html>
